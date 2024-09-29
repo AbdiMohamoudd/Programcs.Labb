@@ -1,0 +1,6 @@
+﻿Build started at 22:14...
+1>------ Build started: Project: Programcs.Labb, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Programcs.Labb -> C:\Users\AbdifatahMohamoud-CD\source\repos\Programcs.Labb\Programcs.Labb\bin\Debug\net8.0\Programcs.Labb.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 22:14 and took 10,814 seconds ==========
